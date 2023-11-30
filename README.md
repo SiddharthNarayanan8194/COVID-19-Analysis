@@ -1,5 +1,5 @@
 # COVID-19-Analysis-SQL
-This project will help us to understand the adverse impact of COVID on different countries and continents.The solved queries will help to understand the preparedness of nations and the effectivesness of their vaccination drives during the period of COVID. In this project, I have retrieved useful information from the covid_deaths and covid_vaccination datasets by answering the following queries:
+This project will help us to understand the adverse impact of COVID on different countries and continents.The solved queries will help to understand the preparedness of nations and the effectiveness of their vaccination drives during the period of COVID. In this project, I have retrieved useful information from the covid_deaths and covid_vaccination datasets by answering the following queries:
 
 Q1: How many row entries does the covid_deaths table has?
 
